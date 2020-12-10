@@ -1,6 +1,13 @@
 # Space Game
 A simply python space game with basic controls and scoring features.
 
+![alt text][logo]
+
+[logo]: https://github.com/Robertki16/space-game/blob/main/example%20game%20play.png
+![alt text][logo]
+
+[logo]: https://github.com/Robertki16/space-game/blob/main/example%20game%20play1.png
+
 # How to Run
 - Download and extract **all** of the files.
 - Install the font (not nessasary to run the program - defults to 'Times').
