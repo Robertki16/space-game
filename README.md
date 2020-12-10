@@ -1,9 +1,9 @@
 # Space Game
 A simply python space game with basic controls and scoring features.
 
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: https://github.com/Robertki16/space-game/blob/main/example%20game%20play.png
+[logo1]: https://github.com/Robertki16/space-game/blob/main/example%20game%20play.png
 ![alt text][logo]
 
 [logo]: https://github.com/Robertki16/space-game/blob/main/example%20game%20play1.png
