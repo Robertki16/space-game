@@ -30,7 +30,7 @@ C:\Users\ **YOUR_USERNAME** \AppData\Roaming\Microsoft\Windows\Start Menu\Progra
 - On properties click on **'change icon...'**
 - select any **.ico** file to be your icon.
 
-# Improvements
+# To-Do
 - Preventing spawn kill
 - Adjusting hitbox for turning
 - Making it resizeable (work for different sized screens)
