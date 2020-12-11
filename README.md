@@ -34,6 +34,6 @@ C:\Users\ **YOUR_USERNAME** \AppData\Roaming\Microsoft\Windows\Start Menu\Progra
 - Preventing spawn kill
 - Adjusting hitbox for turning
 - Making it resizeable (work for different sized screens)
-- Change the title and icon of the window<a class="text-green"> - fixed </a> 
+- Change the title and icon of the window <div class="text-green"> - fixed </div> 
 - Making a menu with a scoreboard and restart without closing and re-opening the window
 - Make an installer for all parts of the game. 
