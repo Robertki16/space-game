@@ -23,12 +23,13 @@ A simply python space game with basic controls and scoring features.
 C:\Users\ **YOUR_USERNAME** \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\
 ```
 - Then adding a shortcut to the application file.
-
+<!---
 # Changing the Icon
 - Make a shortcut of the game.
 - Right click on the shortcut and go to properties.
 - On properties click on **'change icon...'**
 - select any **.ico** file to be your icon.
+-->
 
 # To-Do
 - Preventing spawn kill
