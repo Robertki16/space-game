@@ -1,3 +1,8 @@
+# UPDATES
+ - Moving to pygame to improve and restructure the program
+ - Added menu with different options (Resoloution and scoreboard to come)
+ - No need to install font
+ - Compile all files into a standalone executable
 # Space Game
 A simply python space game with basic controls and scoring features.
 
@@ -10,7 +15,7 @@ A simply python space game with basic controls and scoring features.
 
 # How to Run 
 - Download and extract **all** of the files.
-- Install the font (not nessasary to run the program - defults to 'Times').
+- Install the font (not necessary to run the program - defaults to 'Times').
 - Run either the python or the application in  same folder as the images.
 
 # How to Play
@@ -33,7 +38,7 @@ C:\Users\ **YOUR_USERNAME** \AppData\Roaming\Microsoft\Windows\Start Menu\Progra
 
 # To-Do
 - Preventing spawn kill
-- Adjusting hitbox for turning
+- Adjusting hit-box for turning
 - Making it resizeable (work for different sized screens)
 - ~~Change the title and icon of the window~~ **- fixed** 
 - Making a menu with a scoreboard and restart without closing and re-opening the window
